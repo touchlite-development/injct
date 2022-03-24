@@ -6,7 +6,7 @@
 | Modify           |  Disclose soruce    |           Hold liable         |
 | Distribute           |   Include copyright   | / |
 | Place Warranty           |   State Changes   |   /                 |
-| /           | Include License     |                    |
+| /           | Include License     |                 /   |
 
 Hopefully this should help people who don't know the license, you can also go to
 https://tldrlegal.com/license/gnu-general-public-license-v2
