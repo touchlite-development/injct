@@ -1,3 +1,3 @@
-console.log('jasper won!')
+let name = '<name>'
 
-console.log('or did he?...')
+console.log(name + ' won!')
